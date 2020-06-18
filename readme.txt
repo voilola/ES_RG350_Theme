@@ -4,7 +4,7 @@ Almost all the logos and console images created by Ruckage
 Version 1.0
 06/18/2020
 
-This theme is for Emulation Station, optimized for the resolution of RG350
+This theme is for Emulation Station, optimized for the resolution of RG350.
 
 ---------------------------------------
 
@@ -40,6 +40,8 @@ ARCADE:
 Capcom Play System
 Neo-Geo
 
+All other systems are by default as in the Pixel theme.
+
 ---------------------------------------
 
 LICENSE:
@@ -57,4 +59,4 @@ LOGO NOTICE: The used logos and trademarks are copyright of their respective own
 
 ---------------------------------------
 
-Supports the awesome work of Ruckage he does with dedication for the whole retro gamer community
+Supports the awesome work of Ruckage he does with dedication for the whole retro gamer community.
