@@ -6,6 +6,15 @@ Version 1.0
 
 ---------------------------------------
 
+I decided to publish this theme for Emulation Station, optimized for the resolution of RG350, even if it's not finished yet.
+I hope someone can finish it, expand it and improve it.
+
+The version of Emulation Station I've used is a bit old (but fully functional on RG350), so many functions have not been implemented.
+
+The version of ES that I used: https://github.com/ManuelSch81/RG350-EmulationStation_configured/tree/master/frontend_start
+
+---------------------------------------
+
 SYSTEMS SUPPORTED:
 
 Atari 2600
