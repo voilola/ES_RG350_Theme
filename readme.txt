@@ -54,3 +54,7 @@ REQUIREMENTS: - Attribution, give credit to the creator
 PROHIBITED:   - Commercial distribution
 
 LOGO NOTICE: The used logos and trademarks are copyright of their respective owners.
+
+---------------------------------------
+
+Supports the awesome work of Ruckage he does with dedication for the whole retro gamer community
