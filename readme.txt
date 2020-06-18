@@ -4,16 +4,21 @@ Almost all the logos and console images created by Ruckage
 Version 1.0
 06/18/2020
 
+This theme is for Emulation Station, optimized for the resolution of RG350
+
 ---------------------------------------
 
-I decided to publish this theme for Emulation Station, optimized for the resolution of RG350, even if it's not finished yet.
+Initially I didn't plan to share this theme, but since I was asked to do it I decided to publish it (even if it's not finished yet, because unfortunately I don't have time to continue it).
+
+The version of Emulation Station I used is a bit old (but fully functional on RG350), so many functions have not been implemented.
+The version of ES that I used: https://github.com/ManuelSch81/RG350-EmulationStation_configured
+
 I hope someone can finish it, expand it and improve it.
 
-The version of Emulation Station I've used is a bit old (but fully functional on RG350), so many functions have not been implemented.
-
-The version of ES that I used: https://github.com/ManuelSch81/RG350-EmulationStation_configured/tree/master/frontend_start
-
 ---------------------------------------
+
+At the moment there are very few systems supported by this theme. To understand how the theme works, there are two PSD template files in the /art folder: TEMP_System_In and TEMP_System_Out.
+The structure is not properly optimized for time reasons (it could be a bit tricky).
 
 SYSTEMS SUPPORTED:
 
