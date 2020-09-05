@@ -9,10 +9,10 @@
 			<pos>0.0 0.0</pos>
 			<origin>0 0</origin>
 			<size>1 1</size>
-			<color>737267</color>
+			<color>538117</color>
 			<path>./../art/systemback.png</path>
 		</image>
-				
+		
 		<image name="logo">
 			<path>./logo.png</path>
         </image>
@@ -44,8 +44,8 @@
 	<view name="system, detailed">
 		
 		<text name="logoText" extra="true">
-			<text>Sony Playstation</text>
-			<color>737267</color>
+			<text>Nintendo Game Boy</text>
+			<color>538117</color>
 		</text>
 		
 	</view>
@@ -64,7 +64,7 @@
 			<pos>0 0</pos>
 			<origin>0 0</origin>
 			<size>1 1</size>
-			<color>737267</color>
+			<color>538117</color>
 			<path>./../art/systemback.png</path>
 		</image>
 
@@ -82,7 +82,7 @@
 			<alignment>center</alignment>
 			<horizontalMargin>0.01</horizontalMargin>
 			<fontSize>0.04</fontSize>
-			<selectorColor>737267</selectorColor>
+			<selectorColor>538117</selectorColor>
 			<selectedColor>FFFFFF90</selectedColor>
 			<primaryColor>ffffff</primaryColor>
 			<secondaryColor>871F78</secondaryColor>
@@ -90,7 +90,7 @@
 		</textlist>
 		
 	</view>
-
+	
 	<view name="detailed">
 	
 		<image name="header" extra="true">
@@ -107,13 +107,13 @@
 			<maxSize>0.418 0.115</maxSize>
 			<origin>0.5 0.5</origin>
 		</image>
-		
+
 		<image name="background" extra="true">
 			<tile>false</tile>
 			<pos>0 0</pos>
 			<origin>0 0</origin>
 			<size>1 1</size>
-			<color>737267</color>
+			<color>538117</color>
 			<path>./../art/background.png</path>
 		</image>
 
@@ -132,13 +132,13 @@
 			<alignment>left</alignment>
 			<horizontalMargin>0.01</horizontalMargin>
 			<fontSize>0.035</fontSize>
-			<selectorColor>737267</selectorColor>
+			<selectorColor>538117</selectorColor>
 			<selectedColor>FFFFFF90</selectedColor>
 			<primaryColor>ffffff</primaryColor>
 			<secondaryColor>871F78</secondaryColor>
 			<forceUppercase>0</forceUppercase>
 		</textlist>
-		
+
 		<image name="Bottom Console Image" extra="false">
 			<tile>false</tile>
 			<pos>0.890 0.788</pos>

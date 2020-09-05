@@ -41,7 +41,13 @@
 		
 	</view>
 
-	<view name="basic, detailed">
+	<view name="system, detailed">
+		
+		<text name="logoText" extra="true">
+			<text>Atari 5200</text>
+			<color>014591</color>
+		</text>
+		
 	</view>
 
 	<view name="basic">
@@ -141,122 +147,48 @@
 			<path>./console.png</path>
 		</image>
 
-		<datetime name="md_releasedate">
-			<size>0.368 0.204</size>
-			<pos>0.788 0.531</pos>
-		</datetime>
-		
-		<text name="md_lbl_releasedate" extra="true">
-			<text>REL</text>
-			<forceUppercase>0</forceUppercase>
-			<size>0.368 0.204</size>
-			<pos>0.721 0.531</pos>
-			<color>FFFFFF</color>
-			<fontPath>./../art/font.ttf</fontPath>
-			<fontSize>0.034</fontSize>
-			<alignment>left</alignment>
-		</text>	
-		
 		<text name="md_players" extra="true">
 			<forceUppercase>0</forceUppercase>
 			<size>0.368 0.204</size>
-			<pos>0.469 0.531</pos>
+			<pos>0.4365 0.5455</pos>
 			<color>ffffff</color>
 			<fontPath>./../art/font.ttf</fontPath>
 			<fontSize>0.034</fontSize>
 			<alignment>center</alignment>
 		</text>
 		
-		<text name="md_lbl_players" extra="true">
-			<text>PLY</text>
-			<forceUppercase>0</forceUppercase>
+		<datetime name="md_releasedate">
 			<size>0.368 0.204</size>
-			<pos>0.560 0.531</pos>
-			<color>FFFFFF</color>
-			<fontPath>./../art/font.ttf</fontPath>
-			<fontSize>0.034</fontSize>
-			<alignment>left</alignment>
-		</text>
-				
-		<text name="md_genre" extra="true">
-			<forceUppercase>0</forceUppercase>
-			<size>0.368 0.294</size>
-			<pos>0.631 0.548</pos>
-			<color>ffffff</color>
-			<fontPath>./../art/font.ttf</fontPath>
-			<fontSize>0.034</fontSize>
-			<alignment>left</alignment>
-		</text>
-		
-		<text name="md_lbl_genre" extra="true">
-			<text>GEN</text>
-			<forceUppercase>0</forceUppercase>
-			<size>0.368 0.294</size>
-			<pos>0.560 0.548</pos>
-			<color>FFFFFF</color>
-			<fontPath>./../art/font.ttf</fontPath>
-			<fontSize>0.034</fontSize>
-			<alignment>left</alignment>
-		</text>
-		
+			<pos>0.76 0.5455</pos>
+		</datetime>
+
 		<text name="md_developer" extra="true">
 			<forceUppercase>0</forceUppercase>
 			<size>0.368 0.294</size>
-			<pos>0.631 0.611</pos>
+			<pos>0.574 0.579</pos>
 			<color>ffffff</color>
 			<fontPath>./../art/font.ttf</fontPath>
 			<fontSize>0.034</fontSize>
 			<alignment>left</alignment>
 		</text>
-		
-		<text name="md_lbl_developer" extra="true">
-			<text>DEV</text>
-			<forceUppercase>0</forceUppercase>
-			<size>0.368 0.294</size>
-			<pos>0.560 0.611</pos>
-			<color>FFFFFF</color>
-			<fontPath>./../art/font.ttf</fontPath>
-			<fontSize>0.034</fontSize>
-			<alignment>left</alignment>
-		</text>	
 		
 		<text name="md_publisher" extra="true">
 			<forceUppercase>0</forceUppercase>
 			<size>0.368 0.294</size>
-			<pos>0.631 0.673</pos>
+			<pos>0.574 0.657</pos>
 			<color>ffffff</color>
 			<fontPath>./../art/font.ttf</fontPath>
 			<fontSize>0.034</fontSize>
 			<alignment>left</alignment>
 		</text>
 		
-		<text name="md_lbl_publisher" extra="true">
-			<text>PUB</text>
+		<text name="md_genre" extra="true">
 			<forceUppercase>0</forceUppercase>
 			<size>0.368 0.294</size>
-			<pos>0.560 0.673</pos>
-			<color>FFFFFF</color>
+			<pos>0.574 0.7355</pos>
+			<color>ffffff</color>
 			<fontPath>./../art/font.ttf</fontPath>
-			<fontSize>0.035</fontSize>
-			<alignment>left</alignment>
-		</text>
-							
-		<datetime name="md_lastplayed">
-			<size>0.368 0.290</size>
-			<pos>0.709 0.741</pos>
-			<color>FFFFFF</color>
-			<fontPath>./../art/font.ttf</fontPath>
-			<fontSize>0.035</fontSize>
-		</datetime>
-		
-		<text name="md_lbl_lastplayed" extra="true">
-			<text>PLC</text>
-			<forceUppercase>0</forceUppercase>
-			<size>0.368 0.290</size>
-			<pos>0.642 0.741</pos>
-			<color>FFFFFF</color>
-			<fontPath>./../art/font.ttf</fontPath>
-			<fontSize>0.035</fontSize>
+			<fontSize>0.034</fontSize>
 			<alignment>left</alignment>
 		</text>
 		

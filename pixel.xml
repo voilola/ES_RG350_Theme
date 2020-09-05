@@ -12,7 +12,7 @@ Almost all the logos and console images created by Ruckage
     <formatVersion>3</formatVersion>
 
 	<view name="system">
-	
+			
 		<helpsystem name="help">
 			<pos>0.012 0.960</pos>
 			<textColor>ffffff</textColor>
@@ -20,6 +20,15 @@ Almost all the logos and console images created by Ruckage
 			<fontPath>./art/font.ttf</fontPath>
 			<fontSize>0.035</fontSize>
 		</helpsystem>
+		
+		<image name="background" extra="true">
+			<tile>false</tile>
+			<pos>0.0 0.0</pos>
+			<origin>0 0</origin>
+			<size>1 1</size>
+			<color>5c67a9</color>
+			<path>./art/systemback.png</path>
+		</image>
 		
 		<image name="backgroundLogo" extra="true">
 			<path>./art/systemfront.png</path>
@@ -30,6 +39,16 @@ Almost all the logos and console images created by Ruckage
 			<tile>false</tile>
 		</image>
 		
+		<text name="logoText" extra="true">
+			<text>MissingNo.</text>
+			<color>FFFFFF</color>
+			<alignment>center</alignment>
+			<fontPath>./art/font.ttf</fontPath>
+			<fontSize>0.035</fontSize>
+			<pos>0 0</pos>
+			<size>1 0</size>
+		</text>
+	
 	</view>
 	
     <view name="basic">
@@ -167,6 +186,16 @@ Almost all the logos and console images created by Ruckage
 	</view>	
 
 	<view name="basic, detailed">
+	
+		<text name="logoText" extra="true">
+			<text>MissingNo.</text>
+			<color>FFFFFF</color>
+			<alignment>center</alignment>
+			<fontPath>./art/font.ttf</fontPath>
+			<fontSize>0.035</fontSize>
+			<pos>0 0</pos>
+			<size>1 0</size>
+		</text>
 		
 		<text name="md_lbl_rating, md_lbl_releasedate, md_lbl_developer, md_lbl_publisher, md_lbl_genre, md_lbl_players, md_lbl_lastplayed,">
 			<color>F0F0F0</color>
@@ -195,9 +224,7 @@ Almost all the logos and console images created by Ruckage
 		<sound name="launch">
 			<path>./art/click.wav</path>
 		</sound>
-		
 
 	</view>	
-
 
 	</theme>
