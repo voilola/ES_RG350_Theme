@@ -47,8 +47,6 @@ OTHERS:
 
 PICO-8
 
-All other systems are by default as in the Pixel theme.
-
 ---------------------------------------
 
 LICENSE:
