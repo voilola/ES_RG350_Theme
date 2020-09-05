@@ -6,6 +6,9 @@ Version 1.0
 
 This theme is for Emulation Station, optimized for the resolution of RG350.
 
+Reddit
+https://www.reddit.com/r/RG350/comments/hbhwmg/emulationstation_wip_theme_optimized_for_rg350/
+
 ---------------------------------------
 
 Initially I didn't plan to share this theme, but since I was asked to do it I decided to publish it (even if it's not finished yet, because unfortunately I don't have time to continue it).
